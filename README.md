@@ -2,7 +2,7 @@
 
 Fully functional on Big Sur 11.0.1 - Beta 
 
-The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community.
+The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented guide.
 [Guide Followed](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
 
