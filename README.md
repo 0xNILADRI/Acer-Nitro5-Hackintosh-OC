@@ -34,7 +34,7 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 - **Sound** Fully Functional <br> [Headphone Fix](https://github.com/fewtarius/jackfix), the headphnone fix has been provided in the HeadphoneFix directory, just run the install.command on your system and you're good to go!
 
 ## DSDT-SSDT
-- Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for this model.
+- Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
 
 ***Note*** : Please don't use this if you're using a different model, it will definitely cause problem.
 
