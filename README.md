@@ -30,8 +30,8 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 ## Current Status
 - **Discrete graphic card** is not working yet
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
-- **Display Brightness** is works after using [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi)
-- **Sound** Fully Functional <br> [Headphone Fix](https://github.com/fewtarius/jackfix), the headphnone fix has been provided in the HeadphoneFix directory, just run the install.command on your system and you're good to go!
+- **Sound** Fully Functional, except headphone mic with Layout 29. Althought I am a new layout created by me (78). **WIP**
+- **Everything else works** 
 
 ## DSDT-SSDT
 - Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
