@@ -1,8 +1,8 @@
 # [SUCCESS] Acer-Nitro5-Hackintosh
 
-[![Preview](hack.png)](https://github.com/niladrihere/Acer-Nitro5-Hackintosh-OC/)
+[![Preview](snap.png)](https://github.com/niladrihere/Acer-Nitro5-Hackintosh-OC/)
 
-Fully functional on Big Sur 11.1 - Beta 
+Fully functional on Big Sur 11.2
 
 The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented guide.
 [Guide Followed](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
@@ -26,13 +26,13 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch) 24 Bit Color     |
 | Sound Card          | Realtek ALC255                             |
-| Wireless Card       | Qualcomm Atheros QCA61x4A : ordered Intel Ax200   |
+| Wireless Card       | Qualcomm Atheros QCA61x4A, Using TL-WN725N V3|
 | Touchpad            | I2C HID based                              |
 
 ## Current Status
 - **Discrete graphic card** is not working yet
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
-- **Sound** Fully Functional, except headphone mic with Layout 29. Althought I am a new layout created by me (78). **WIP**
+- **Sound** Fully Functional, except headphone mic with Layout 29.
 - **Everything else works** 
 
 ## DSDT-SSDT
