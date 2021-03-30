@@ -24,15 +24,16 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 | Memory              | 8GB/16GB Sk Hynix DDR4 2133MHz             |
 | Hard Disk           | Kingston Q500 480GB SATA3 2.5 SSD          |
 | Integrated Graphics | Intel UHD Graphics 630                     |
-| Monitor             | FHD 1920x1080 (15.6 inch) 24 Bit Color     |
+| Monitor             | FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
 | Wireless Card       | Qualcomm Atheros QCA61x4A, Using TL-WN725N V3|
 | Touchpad            | I2C HID based                              |
 
 ## Current Status
-- **Discrete graphic card** is not working yet
+- **Discrete graphic card** never going to work!
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
 - **Sound** Fully Functional, except headphone mic with Layout 29.
+- **HDMI** Won't work, since the port is hardwired to the dGpu (disabled).
 - **Everything else works** 
 
 ## DSDT-SSDT
