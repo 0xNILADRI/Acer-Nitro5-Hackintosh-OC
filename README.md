@@ -1,10 +1,10 @@
 # [SUCCESS] Acer-Nitro5-Hackintosh
 
-If you love my work, do provide a ⭐.
+If you love my work, help me with a ⭐.
 
 [![Preview](snap.png)](https://github.com/niladrihere/Acer-Nitro5-Hackintosh-OC/)
 
-Fully functional on Big Sur 11.3
+Fully functional on Big Sur 11.4
 
 The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented [guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html).
 
