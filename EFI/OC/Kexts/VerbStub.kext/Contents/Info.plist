@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19B88</string>
+	<string>18B75</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -27,17 +27,17 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11B500</string>
+	<string>10B61</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>18G74</string>
+	<string>18B71</string>
 	<key>DTSDKName</key>
 	<string>macosx10.14</string>
 	<key>DTXcode</key>
-	<string>1120</string>
+	<string>1010</string>
 	<key>DTXcodeBuild</key>
-	<string>11B500</string>
+	<string>10B61</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>VerbStub</key>
@@ -65,8 +65,6 @@
 			<string>IOResources</string>
 		</dict>
 	</dict>
-	<key>LSMinimumSystemVersion</key>
-	<string>10.14</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2017 VerbStub. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
@@ -74,9 +72,9 @@
 		<key>com.apple.iokit.IOPCIFamily</key>
 		<string>2.9</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>15.6</string>
+		<string>16.6</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>15.6</string>
+		<string>16.6</string>
 	</dict>
 </dict>
 </plist>
