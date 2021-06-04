@@ -8,16 +8,12 @@ If you loved my work, bestow it with a ⭐
 
 The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented [guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html).
 
-<br>
-
 ## Contents
 
 - [Configuration](#configuration)
 - [Current Status](#current-status)
 - [DSDT-SSDT](#dsdt-ssdt)
 - [Credits](#credits)
-
-<br>
 
 ## Configuration
 
@@ -33,8 +29,6 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 | Wireless Card       | Qualcomm Atheros QCA61x4A, Using TL-WN725N V3|
 | Touchpad            | I2C HID based                              |
 
-<br>
-
 ## Current Status
 - **Discrete graphic card** never going to work!
 - **Touchpad Gestures** works after adding patched DSDT/SSDT (XOSI) in OC
@@ -42,12 +36,8 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 - **HDMI** Won't work, since the port is hardwired to the dGpu (disabled).
 - **Everything else works** 
 
-<br>
-
 ## DSDT-SSDT
 - Custom DSDT/SSDT files for this particular model has been created using dumping the DSDT from windows 10 and then modifying it for mac os to work.
-
-<br>
 
 > ***Note*** : Please don't use this if you're using a different model, it will definitely cause problem, also kindly remove the kexts RtWlanU.kext and RtWlanU1827.kext from kexts folder and from config.plist [kernel -> Add], these kexts are for usb wifi dongle (tp-link tl-wn725n).
 
