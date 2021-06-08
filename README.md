@@ -4,7 +4,7 @@ If you loved my work, bestow it with a ⭐
 
 [![Preview](snap.png)](https://github.com/niladrihere/Acer-Nitro5-Hackintosh-OC/)
 
-# Big Sur 11.5 Beta
+# macOS 12 Beta : Monterey
 
 The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented [guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html).
 
