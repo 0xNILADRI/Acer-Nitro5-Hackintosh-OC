@@ -2,7 +2,7 @@
 
 If you loved my work, bestow it with a ⭐
 
-[![Preview](snap.png)](https://github.com/niladrihere/Acer-Nitro5-Hackintosh-OC/)
+[![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
 # macOS 12 Beta : Monterey
 
