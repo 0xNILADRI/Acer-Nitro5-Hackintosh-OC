@@ -2,4 +2,5 @@
 
 # Hidden Files
 .*
+._*
 !/.gitignore
