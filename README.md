@@ -21,13 +21,13 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 | ------------------- | ------------------------------------------- |
 | Computer model      | Acer Nitro 5 2018 - AN515-51 (GTX1050ti)   |
 | Processor           | Intel Core i5-7300hq ~2.5ghz turbo 3.5ghz  |
-| Memory              | 8GB/16GB Sk Hynix DDR4 2133MHz             |
+| Memory              | HyperX Impact 16GB 2400MHz DDR4 CL14            |
 | Hard Disk           | Kingston Q500 480GB SATA3 2.5 SSD          |
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
 | Wireless Card       | Qualcomm Atheros QCA61x4A, Using TL-WN725N V3|
-| Touchpad            | I2C HID based                              |
+| Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status
 - **Discrete graphic card** never going to work!
