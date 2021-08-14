@@ -26,7 +26,7 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC255                             |
-| Wireless Card       | Qualcomm Atheros QCA61x4A, Using TL-WN725N V3|
+| Wireless Card       | TP Link TL-WN725N V3 (USB Dongle)|
 | Touchpad            | Synaptics I2C HID based                              |
 
 ## Current Status
