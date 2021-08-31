@@ -4,9 +4,9 @@ If you loved my work, bestow it with a ⭐
 
 [![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
-# macOS 12 Beta 5 : Monterey
+# macOS 12 Beta 6 : Monterey
 
-The whole project was made with the help of Opencore - Dortania (Guide). A huge thanks to the awesome community with well ducumented [guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html).
+The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
 ## Contents
 
@@ -48,4 +48,4 @@ The whole project was made with the help of Opencore - Dortania (Guide). A huge 
 - Thanks to [VoodooI2C](https://github.com/VoodooI2C) for providing [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
 - Thanks to [hackintosh-stuff](https://github.com/hackintosh-stuff) for providing [ComboJackFix](https://github.com/hackintosh-stuff/ComboJack).
 - Thanks to [chris1111](https://github.com/chris1111) for providing the [Wireless USB Driver](https://github.com/hackintosh-stuff/ComboJack).
-- A huge thanks to the opencore community, I couldn't stress enough the support I got to make this a success. [Reddit](https://www.reddit.com/r/hackintosh/) 
+- A huge thanks to the opencore community, I couldn't stress enough the support I got to make this a success. [Reddit](https://www.reddit.com/r/hackintosh/) s
