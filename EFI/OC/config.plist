@@ -714,7 +714,7 @@
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
-			<real>2147483650</real>
+			<integer>2147483650</integer>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
@@ -964,10 +964,38 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
-			<string>OpenRuntime.efi</string>
-			<string>OpenCanopy.efi</string>
-			<string>AudioDxe.efi</string>
+			<dict>
+				<key>Path</key>
+				<string>HfsPlus.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Arguments</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Arguments</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Arguments</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Path</key>
+				<string>AudioDxe.efi</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Arguments</key>
+				<string></string>
+			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -986,7 +1014,7 @@
 			<key>PointerSupportMode</key>
 			<string></string>
 			<key>TimerResolution</key>
-			<real>50000</real>
+			<integer>50000</integer>
 		</dict>
 		<key>Output</key>
 		<dict>
@@ -1067,6 +1095,8 @@
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForgeUefiSupport</key>
+			<false/>
+			<key>ForceOcWriteFlash</key>
 			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
