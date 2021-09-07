@@ -50,4 +50,4 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - Thanks to [VoodooI2C](https://github.com/VoodooI2C) for providing [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
 - Thanks to [hackintosh-stuff](https://github.com/hackintosh-stuff) for providing [ComboJackFix](https://github.com/hackintosh-stuff/ComboJack).
 - Thanks to [chris1111](https://github.com/chris1111) for providing the [Wireless USB Driver](https://github.com/hackintosh-stuff/ComboJack).
-- A huge thanks to the opencore community, I couldn't stress enough the support I got to make this a success. [Reddit](https://www.reddit.com/r/hackintosh/) s
+- A huge thanks to the opencore community, I couldn't stress enough the support I got to make this a success. [Reddit](https://www.reddit.com/r/hackintosh/)
