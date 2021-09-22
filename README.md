@@ -4,11 +4,11 @@ If you loved my work, bestow it with a ⭐
 
 [![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
-# macOS 12 Beta 6 : Monterey
+# macOS 12 Beta 7 : Monterey
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
-`Opencore Version : 0.7.3` 
+`Opencore Version : 0.7.4 Development Build (commit 1cb8490) ` 
 
 ## Contents
 
