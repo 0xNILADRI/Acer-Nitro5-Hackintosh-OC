@@ -699,6 +699,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+			<key>LogModules</key>
+			<string>*</string>
 			<key>SerialInit</key>
 			<false/>
 			<key>SysReport</key>
@@ -747,7 +749,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Auxiliary</key>
-				<false/>
+				<true/>
 				<key>Comment</key>
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
@@ -773,8 +775,6 @@
 			<dict>
 				<key>DefaultBackgroundColor</key>
 				<data>AAAAAA==</data>
-				<key>UIScale</key>
-				<data>AQ==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -783,6 +783,8 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
+				<key>#INFO (prev-lang:kbd)</key>
+				<string>en:252 (ABC), set 656e3a323532</string>
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
@@ -801,7 +803,6 @@
 		<dict>
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<array>
-				<string>UIScale</string>
 				<string>DefaultBackgroundColor</string>
 			</array>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
@@ -918,6 +919,12 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>PointerPollMask</key>
+			<integer>-1</integer>
+			<key>PointerPollMax</key>
+			<integer>80</integer>
+			<key>PointerPollMin</key>
+			<integer>10</integer>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
@@ -929,35 +936,29 @@
 			<integer>0</integer>
 			<key>AudioDevice</key>
 			<string>PciRoot(0x0)/Pci(0x1f,0x3)</string>
-			<key>AudioOut</key>
+			<key>AudioOutMask</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
 			<true/>
-			<key>MinimumVolume</key>
-			<integer>40</integer>
+			<key>DisconnectHda</key>
+			<false/>
+			<key>MaximumGain</key>
+			<integer>-15</integer>
+			<key>MinimumAssistGain</key>
+			<integer>-30</integer>
+			<key>MinimumAudibleGain</key>
+			<integer>-55</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
-			<key>VolumeAmplifier</key>
-			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>AudioDxe.efi</string>
-			</dict>
 			<dict>
 				<key>Arguments</key>
 				<string></string>
@@ -987,6 +988,16 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>AudioDxe.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
@@ -1024,6 +1035,8 @@
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<true/>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -1034,6 +1047,8 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UIScale</key>
+			<integer>0</integer>
 			<key>UgaPassThrough</key>
 			<false/>
 		</dict>
@@ -1084,6 +1099,8 @@
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
