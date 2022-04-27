@@ -4,7 +4,7 @@ If you loved my work, bestow it with a ⭐
 
 [![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
-# macOS Monterey : version 12.1 Beta
+# macOS Monterey : version 12.3.1
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
@@ -14,7 +14,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 
 - [Configuration](#configuration)
 - [Current Status](#current-status)
-- [DSDT-SSDT](#dsdt-ssdt)
+- [DSDT-SSDT](#dsdt-ssdt)7
 - [Credits](#credits)
 
 ## Configuration
@@ -49,5 +49,5 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - Thanks to [RehabMan](https://github.com/RehabMan) for providing [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts/SATA-unsupported.kext).
 - Thanks to [VoodooI2C](https://github.com/VoodooI2C) for providing [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C).
 - Thanks to [hackintosh-stuff](https://github.com/hackintosh-stuff) for providing [ComboJackFix](https://github.com/hackintosh-stuff/ComboJack).
-- Thanks to [chris1111](https://github.com/chris1111) for providing the [Wireless USB Driver](https://github.com/hackintosh-stuff/ComboJack).
+- Thanks to [chris1111](https://github.com/chris1111) for providing the [Wireless USB Driver](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter).
 - A huge thanks to the opencore community, I couldn't stress enough the support I got to make this a success. [Reddit](https://www.reddit.com/r/hackintosh/)
