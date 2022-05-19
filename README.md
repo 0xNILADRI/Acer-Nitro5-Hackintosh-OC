@@ -14,7 +14,7 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 
 - [Configuration](#configuration)
 - [Current Status](#current-status)
-- [DSDT-SSDT](#dsdt-ssdt)7
+- [DSDT-SSDT](#dsdt-ssdt)
 - [Credits](#credits)
 
 ## Configuration
