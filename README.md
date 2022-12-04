@@ -4,7 +4,7 @@ If you loved my work, bestow it with a ⭐
 
 [![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
 
-# macOS Ventura : version 13.0 Beta 3
+# macOS Ventura : version 13.1 Beta
 
 The project was made from scratch with the help of [Opencore - Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/). A huge thanks to the awesome community for the documantation.
 
