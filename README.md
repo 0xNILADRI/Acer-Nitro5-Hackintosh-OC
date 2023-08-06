@@ -1,4 +1,4 @@
-# [SUCCESS] Acer-Nitro5-Hackintosh
+# [SUCCESS] Acer-Nitro5-Hackintosh   { Discontinued }
 
 If you loved my work, bestow it with a ⭐
 
